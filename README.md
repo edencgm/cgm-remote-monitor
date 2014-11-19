@@ -7,7 +7,7 @@ cgm-remote-monitor (a.k.a. NightScout)
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
- This acts as a web-based CGM (Continuous Glucose Montinor) to allow
+ T his acts as a web-based CGM (Continuous Glucose Montinor) to allow
 multiple caregivers to remotely view a patients glucose data in
 realtime.  The server reads a MongoDB which is intended to be data
 from a physical CGM, where it sends new SGV (sensor glucose values) as
